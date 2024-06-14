@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\day12_delegates\day12_delegates\bin\Debug\net7.0\day12_delegates.exe
+C:\Users\Administrator\source\repos\day12_delegates\day12_delegates\bin\Debug\net7.0\day12_delegates.deps.json
+C:\Users\Administrator\source\repos\day12_delegates\day12_delegates\bin\Debug\net7.0\day12_delegates.runtimeconfig.json
+C:\Users\Administrator\source\repos\day12_delegates\day12_delegates\bin\Debug\net7.0\day12_delegates.dll
+C:\Users\Administrator\source\repos\day12_delegates\day12_delegates\bin\Debug\net7.0\day12_delegates.pdb
+C:\Users\Administrator\source\repos\day12_delegates\day12_delegates\obj\Debug\net7.0\day12_delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\day12_delegates\day12_delegates\obj\Debug\net7.0\day12_delegates.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\day12_delegates\day12_delegates\obj\Debug\net7.0\day12_delegates.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\day12_delegates\day12_delegates\obj\Debug\net7.0\day12_delegates.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\day12_delegates\day12_delegates\obj\Debug\net7.0\day12_delegates.dll
+C:\Users\Administrator\source\repos\day12_delegates\day12_delegates\obj\Debug\net7.0\refint\day12_delegates.dll
+C:\Users\Administrator\source\repos\day12_delegates\day12_delegates\obj\Debug\net7.0\day12_delegates.pdb
+C:\Users\Administrator\source\repos\day12_delegates\day12_delegates\obj\Debug\net7.0\day12_delegates.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\day12_delegates\day12_delegates\obj\Debug\net7.0\ref\day12_delegates.dll

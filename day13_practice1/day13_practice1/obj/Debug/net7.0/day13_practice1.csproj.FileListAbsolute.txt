@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\day13_practice1\day13_practice1\bin\Debug\net7.0\day13_practice1.exe
+C:\Users\Administrator\source\repos\day13_practice1\day13_practice1\bin\Debug\net7.0\day13_practice1.deps.json
+C:\Users\Administrator\source\repos\day13_practice1\day13_practice1\bin\Debug\net7.0\day13_practice1.runtimeconfig.json
+C:\Users\Administrator\source\repos\day13_practice1\day13_practice1\bin\Debug\net7.0\day13_practice1.dll
+C:\Users\Administrator\source\repos\day13_practice1\day13_practice1\bin\Debug\net7.0\day13_practice1.pdb
+C:\Users\Administrator\source\repos\day13_practice1\day13_practice1\obj\Debug\net7.0\day13_practice1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\day13_practice1\day13_practice1\obj\Debug\net7.0\day13_practice1.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\day13_practice1\day13_practice1\obj\Debug\net7.0\day13_practice1.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\day13_practice1\day13_practice1\obj\Debug\net7.0\day13_practice1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\day13_practice1\day13_practice1\obj\Debug\net7.0\day13_practice1.dll
+C:\Users\Administrator\source\repos\day13_practice1\day13_practice1\obj\Debug\net7.0\refint\day13_practice1.dll
+C:\Users\Administrator\source\repos\day13_practice1\day13_practice1\obj\Debug\net7.0\day13_practice1.pdb
+C:\Users\Administrator\source\repos\day13_practice1\day13_practice1\obj\Debug\net7.0\day13_practice1.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\day13_practice1\day13_practice1\obj\Debug\net7.0\ref\day13_practice1.dll

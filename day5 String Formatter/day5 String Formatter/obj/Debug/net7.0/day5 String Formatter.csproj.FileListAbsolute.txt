@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\day5 String Formatter\day5 String Formatter\obj\Debug\net7.0\day5 String Formatter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\day5 String Formatter\day5 String Formatter\obj\Debug\net7.0\day5 String Formatter.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\day5 String Formatter\day5 String Formatter\obj\Debug\net7.0\day5 String Formatter.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\day5 String Formatter\day5 String Formatter\obj\Debug\net7.0\day5 String Formatter.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\day5 String Formatter\day5 String Formatter\bin\Debug\net7.0\day5 String Formatter.exe
+C:\Users\Administrator\source\repos\day5 String Formatter\day5 String Formatter\bin\Debug\net7.0\day5 String Formatter.deps.json
+C:\Users\Administrator\source\repos\day5 String Formatter\day5 String Formatter\bin\Debug\net7.0\day5 String Formatter.runtimeconfig.json
+C:\Users\Administrator\source\repos\day5 String Formatter\day5 String Formatter\bin\Debug\net7.0\day5 String Formatter.dll
+C:\Users\Administrator\source\repos\day5 String Formatter\day5 String Formatter\bin\Debug\net7.0\day5 String Formatter.pdb
+C:\Users\Administrator\source\repos\day5 String Formatter\day5 String Formatter\obj\Debug\net7.0\day5 String Formatter.dll
+C:\Users\Administrator\source\repos\day5 String Formatter\day5 String Formatter\obj\Debug\net7.0\refint\day5 String Formatter.dll
+C:\Users\Administrator\source\repos\day5 String Formatter\day5 String Formatter\obj\Debug\net7.0\day5 String Formatter.pdb
+C:\Users\Administrator\source\repos\day5 String Formatter\day5 String Formatter\obj\Debug\net7.0\day5 String Formatter.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\day5 String Formatter\day5 String Formatter\obj\Debug\net7.0\ref\day5 String Formatter.dll

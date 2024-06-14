@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\day 6 interface_ex2\day 6 interface_ex2\bin\Debug\net7.0\day 6 interface_ex2.exe
+C:\Users\Administrator\source\repos\day 6 interface_ex2\day 6 interface_ex2\bin\Debug\net7.0\day 6 interface_ex2.deps.json
+C:\Users\Administrator\source\repos\day 6 interface_ex2\day 6 interface_ex2\bin\Debug\net7.0\day 6 interface_ex2.runtimeconfig.json
+C:\Users\Administrator\source\repos\day 6 interface_ex2\day 6 interface_ex2\bin\Debug\net7.0\day 6 interface_ex2.dll
+C:\Users\Administrator\source\repos\day 6 interface_ex2\day 6 interface_ex2\bin\Debug\net7.0\day 6 interface_ex2.pdb
+C:\Users\Administrator\source\repos\day 6 interface_ex2\day 6 interface_ex2\obj\Debug\net7.0\day 6 interface_ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\day 6 interface_ex2\day 6 interface_ex2\obj\Debug\net7.0\day 6 interface_ex2.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\day 6 interface_ex2\day 6 interface_ex2\obj\Debug\net7.0\day 6 interface_ex2.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\day 6 interface_ex2\day 6 interface_ex2\obj\Debug\net7.0\day 6 interface_ex2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\day 6 interface_ex2\day 6 interface_ex2\obj\Debug\net7.0\day 6 interface_ex2.dll
+C:\Users\Administrator\source\repos\day 6 interface_ex2\day 6 interface_ex2\obj\Debug\net7.0\refint\day 6 interface_ex2.dll
+C:\Users\Administrator\source\repos\day 6 interface_ex2\day 6 interface_ex2\obj\Debug\net7.0\day 6 interface_ex2.pdb
+C:\Users\Administrator\source\repos\day 6 interface_ex2\day 6 interface_ex2\obj\Debug\net7.0\day 6 interface_ex2.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\day 6 interface_ex2\day 6 interface_ex2\obj\Debug\net7.0\ref\day 6 interface_ex2.dll

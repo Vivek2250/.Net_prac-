@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\day 4Loan Assignment\day 4Loan Assignment\bin\Debug\net7.0\day 4Loan Assignment.exe
+C:\Users\Administrator\source\repos\day 4Loan Assignment\day 4Loan Assignment\bin\Debug\net7.0\day 4Loan Assignment.deps.json
+C:\Users\Administrator\source\repos\day 4Loan Assignment\day 4Loan Assignment\bin\Debug\net7.0\day 4Loan Assignment.runtimeconfig.json
+C:\Users\Administrator\source\repos\day 4Loan Assignment\day 4Loan Assignment\bin\Debug\net7.0\day 4Loan Assignment.dll
+C:\Users\Administrator\source\repos\day 4Loan Assignment\day 4Loan Assignment\bin\Debug\net7.0\day 4Loan Assignment.pdb
+C:\Users\Administrator\source\repos\day 4Loan Assignment\day 4Loan Assignment\obj\Debug\net7.0\day 4Loan Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\day 4Loan Assignment\day 4Loan Assignment\obj\Debug\net7.0\day 4Loan Assignment.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\day 4Loan Assignment\day 4Loan Assignment\obj\Debug\net7.0\day 4Loan Assignment.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\day 4Loan Assignment\day 4Loan Assignment\obj\Debug\net7.0\day 4Loan Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\day 4Loan Assignment\day 4Loan Assignment\obj\Debug\net7.0\day 4Loan Assignment.dll
+C:\Users\Administrator\source\repos\day 4Loan Assignment\day 4Loan Assignment\obj\Debug\net7.0\refint\day 4Loan Assignment.dll
+C:\Users\Administrator\source\repos\day 4Loan Assignment\day 4Loan Assignment\obj\Debug\net7.0\day 4Loan Assignment.pdb
+C:\Users\Administrator\source\repos\day 4Loan Assignment\day 4Loan Assignment\obj\Debug\net7.0\day 4Loan Assignment.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\day 4Loan Assignment\day 4Loan Assignment\obj\Debug\net7.0\ref\day 4Loan Assignment.dll

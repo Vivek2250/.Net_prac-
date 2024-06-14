@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\day6_ArrayList\day6_ArrayList\bin\Debug\net7.0\day6_ArrayList.exe
+C:\Users\Administrator\source\repos\day6_ArrayList\day6_ArrayList\bin\Debug\net7.0\day6_ArrayList.deps.json
+C:\Users\Administrator\source\repos\day6_ArrayList\day6_ArrayList\bin\Debug\net7.0\day6_ArrayList.runtimeconfig.json
+C:\Users\Administrator\source\repos\day6_ArrayList\day6_ArrayList\bin\Debug\net7.0\day6_ArrayList.dll
+C:\Users\Administrator\source\repos\day6_ArrayList\day6_ArrayList\bin\Debug\net7.0\day6_ArrayList.pdb
+C:\Users\Administrator\source\repos\day6_ArrayList\day6_ArrayList\obj\Debug\net7.0\day6_ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\day6_ArrayList\day6_ArrayList\obj\Debug\net7.0\day6_ArrayList.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\day6_ArrayList\day6_ArrayList\obj\Debug\net7.0\day6_ArrayList.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\day6_ArrayList\day6_ArrayList\obj\Debug\net7.0\day6_ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\day6_ArrayList\day6_ArrayList\obj\Debug\net7.0\day6_ArrayList.dll
+C:\Users\Administrator\source\repos\day6_ArrayList\day6_ArrayList\obj\Debug\net7.0\refint\day6_ArrayList.dll
+C:\Users\Administrator\source\repos\day6_ArrayList\day6_ArrayList\obj\Debug\net7.0\day6_ArrayList.pdb
+C:\Users\Administrator\source\repos\day6_ArrayList\day6_ArrayList\obj\Debug\net7.0\day6_ArrayList.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\day6_ArrayList\day6_ArrayList\obj\Debug\net7.0\ref\day6_ArrayList.dll

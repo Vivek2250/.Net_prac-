@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\day 6_for each loop\day 6_for each loop\bin\Debug\net7.0\day 6_for each loop.exe
+C:\Users\Administrator\source\repos\day 6_for each loop\day 6_for each loop\bin\Debug\net7.0\day 6_for each loop.deps.json
+C:\Users\Administrator\source\repos\day 6_for each loop\day 6_for each loop\bin\Debug\net7.0\day 6_for each loop.runtimeconfig.json
+C:\Users\Administrator\source\repos\day 6_for each loop\day 6_for each loop\bin\Debug\net7.0\day 6_for each loop.dll
+C:\Users\Administrator\source\repos\day 6_for each loop\day 6_for each loop\bin\Debug\net7.0\day 6_for each loop.pdb
+C:\Users\Administrator\source\repos\day 6_for each loop\day 6_for each loop\obj\Debug\net7.0\day 6_for each loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\day 6_for each loop\day 6_for each loop\obj\Debug\net7.0\day 6_for each loop.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\day 6_for each loop\day 6_for each loop\obj\Debug\net7.0\day 6_for each loop.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\day 6_for each loop\day 6_for each loop\obj\Debug\net7.0\day 6_for each loop.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\day 6_for each loop\day 6_for each loop\obj\Debug\net7.0\day 6_for each loop.dll
+C:\Users\Administrator\source\repos\day 6_for each loop\day 6_for each loop\obj\Debug\net7.0\refint\day 6_for each loop.dll
+C:\Users\Administrator\source\repos\day 6_for each loop\day 6_for each loop\obj\Debug\net7.0\day 6_for each loop.pdb
+C:\Users\Administrator\source\repos\day 6_for each loop\day 6_for each loop\obj\Debug\net7.0\day 6_for each loop.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\day 6_for each loop\day 6_for each loop\obj\Debug\net7.0\ref\day 6_for each loop.dll

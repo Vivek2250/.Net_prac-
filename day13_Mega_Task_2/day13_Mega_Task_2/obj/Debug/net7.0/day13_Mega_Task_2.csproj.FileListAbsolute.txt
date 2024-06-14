@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\day13_Mega_Task_2\day13_Mega_Task_2\bin\Debug\net7.0\day13_Mega_Task_2.exe
+C:\Users\Administrator\source\repos\day13_Mega_Task_2\day13_Mega_Task_2\bin\Debug\net7.0\day13_Mega_Task_2.deps.json
+C:\Users\Administrator\source\repos\day13_Mega_Task_2\day13_Mega_Task_2\bin\Debug\net7.0\day13_Mega_Task_2.runtimeconfig.json
+C:\Users\Administrator\source\repos\day13_Mega_Task_2\day13_Mega_Task_2\bin\Debug\net7.0\day13_Mega_Task_2.dll
+C:\Users\Administrator\source\repos\day13_Mega_Task_2\day13_Mega_Task_2\bin\Debug\net7.0\day13_Mega_Task_2.pdb
+C:\Users\Administrator\source\repos\day13_Mega_Task_2\day13_Mega_Task_2\obj\Debug\net7.0\day13_Mega_Task_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\day13_Mega_Task_2\day13_Mega_Task_2\obj\Debug\net7.0\day13_Mega_Task_2.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\day13_Mega_Task_2\day13_Mega_Task_2\obj\Debug\net7.0\day13_Mega_Task_2.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\day13_Mega_Task_2\day13_Mega_Task_2\obj\Debug\net7.0\day13_Mega_Task_2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\day13_Mega_Task_2\day13_Mega_Task_2\obj\Debug\net7.0\day13_Mega_Task_2.dll
+C:\Users\Administrator\source\repos\day13_Mega_Task_2\day13_Mega_Task_2\obj\Debug\net7.0\refint\day13_Mega_Task_2.dll
+C:\Users\Administrator\source\repos\day13_Mega_Task_2\day13_Mega_Task_2\obj\Debug\net7.0\day13_Mega_Task_2.pdb
+C:\Users\Administrator\source\repos\day13_Mega_Task_2\day13_Mega_Task_2\obj\Debug\net7.0\day13_Mega_Task_2.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\day13_Mega_Task_2\day13_Mega_Task_2\obj\Debug\net7.0\ref\day13_Mega_Task_2.dll

@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\day 5 method overloading\day 5 method overloading\obj\Debug\net7.0\day 5 method overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\day 5 method overloading\day 5 method overloading\obj\Debug\net7.0\day 5 method overloading.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\day 5 method overloading\day 5 method overloading\obj\Debug\net7.0\day 5 method overloading.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\day 5 method overloading\day 5 method overloading\obj\Debug\net7.0\day 5 method overloading.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\day 5 method overloading\day 5 method overloading\bin\Debug\net7.0\day 5 method overloading.exe
+C:\Users\Administrator\source\repos\day 5 method overloading\day 5 method overloading\bin\Debug\net7.0\day 5 method overloading.deps.json
+C:\Users\Administrator\source\repos\day 5 method overloading\day 5 method overloading\bin\Debug\net7.0\day 5 method overloading.runtimeconfig.json
+C:\Users\Administrator\source\repos\day 5 method overloading\day 5 method overloading\bin\Debug\net7.0\day 5 method overloading.dll
+C:\Users\Administrator\source\repos\day 5 method overloading\day 5 method overloading\bin\Debug\net7.0\day 5 method overloading.pdb
+C:\Users\Administrator\source\repos\day 5 method overloading\day 5 method overloading\obj\Debug\net7.0\day 5 method overloading.dll
+C:\Users\Administrator\source\repos\day 5 method overloading\day 5 method overloading\obj\Debug\net7.0\refint\day 5 method overloading.dll
+C:\Users\Administrator\source\repos\day 5 method overloading\day 5 method overloading\obj\Debug\net7.0\day 5 method overloading.pdb
+C:\Users\Administrator\source\repos\day 5 method overloading\day 5 method overloading\obj\Debug\net7.0\day 5 method overloading.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\day 5 method overloading\day 5 method overloading\obj\Debug\net7.0\ref\day 5 method overloading.dll
